@@ -21,13 +21,13 @@
 ⚡️ Fun fact...
 
 
-### 🔗 How to reach me:
+### How to reach me:
 📫 You can also write me on [nagtodetejaswini@gmail.com](tdo)
 
 👩‍💼 Know more about me [linkedin](https://www.linkedin.com/in/tejaswininagtode/)
 
 🎗️ My Experience [...](https://github.com/tejaswininagtode/Portfolio/blob/main/TejaswiniNagtode_Updated_Resume.pdf)
-### 🛠 Languages and Tools
+### Languages and Tools
 Javascript, HTML, CSS...
 
 
